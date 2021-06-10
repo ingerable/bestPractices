@@ -7,5 +7,9 @@
 ## PHP
 - [PHP the right way](https://phptherightway.com/)
 
+## JS
+
+- [JS the right way](https://jstherightway.org/#getting-started)
+
 ## Interview
 - [how good is a software engineering team](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
