@@ -36,3 +36,20 @@
 
 ### JS
 - [Jest](https://jestjs.io/fr/)
+
+## Static analysis 
+- [Sonarqube](https://www.sonarqube.org/)
+
+## Reporting and error monitoring
+
+- [Sentry](https://sentry.io/welcome/)
+- [Firebase](https://firebase.google.com/)
+
+
+## Virtualization
+- [Docker](https://www.docker.com/)
+
+## CI/CD
+- [simply git](https://docs.gitlab.com/ee/ci/)
+
+
